@@ -1,4 +1,4 @@
-Full gs made by Cath and Hxnted.
+Full gs made by Cath.
 Enjoy.
 
  _____ ______   ________  ________  _______           ________      ___    ___ 
