@@ -37,4 +37,6 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - CathMW (He did AC detector Ok russia)
 ### Meet the team!
 This is our lead developer VladDevPutin1337
-https://github.com/user-attachments/assets/b7dfeb89-aa0e-4f56-9d03-77b6a077d7ef
+
+https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
+
