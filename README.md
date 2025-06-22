@@ -1,65 +1,35 @@
-
-# Cheese And Quackers GS
-EVERYTHING MADE BY CATH (DISCORD C47H ADD)
-## feel free to improve
-
-# HOW TO MAKE GS
-
-- DOWNLOAD IDA PRO https://drive.google.com/file/d/1umAtYOgo43YvsP4YgUhldf560Fo9syxx/view?usp=sharing
-- download Scylla and Processxp (for exe dump) https://cdn.discordapp.com/attachments/1276933851825963119/1292980110105903104/PE.zip?ex=68592f50&is=6857ddd0&hm=c590491d9ce4fcbf4c8d779316a244890049bf90f6b54ec74611b717145c00ef&
-- download dumper 7 https://cdn.discordapp.com/attachments/1180840077711114372/1386432635601031198/Dumper-7.dll?ex=6859af83&is=68585e03&hm=71b3e7f6cba6c47bc691c5299f59b3313ef61686131ee3130ee131e725153b0b&
-- figure it out from there...
-
-### 1:1 ais + creative (on most seasons)
-NOW ITS 1:1
-Im eating a hamburger right now Ok
-
-# HOW TO RUN
-- npm install
-- npm run tauri dev
-- cargo tauri build to build the gs
-
-# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
-A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
-**Made by cath** 🐱‍💻
-### Features
-- 1:1 💯
-- Made by Swayzz (Not a skid)
-- Has a tutorial by HXNTED (SEASON 8 FN IN 2023)
-- Magma
-- STW SUPPORRT ASF FRFR ONG 
-- Works from S1-S69
-### Racist gameserver
-- true
-- Skidded by magma
-- skidded by swayzz
-- Hxnted doesnt Skid
-### Original creator
-- Copyright 1998-2001 Epic Games, Inc. All Rights Reserved.
-- EasyAntiCheat skidded Jyzio
-### Credits:
-- Hxnted (Did everything)
-- Hxnted (Did more)
-- Hxnted (I like turtels)
-- Swayz (He cool i think)
-- CathMW (He did AC detector Ok russia)
-### Meet the team!
-- EVERYONE ELSE IS A SKID BIG UP CATH AND SWAYZZ FOR PUTTING IN ALL THE EFFORT
-- This is our lead developer VladTheGoat0x1337 (cath)
-
-https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
-
-- This is the CEO his name is Anonymous i think
-
-![image](https://github.com/user-attachments/assets/9e1c67e1-cd17-4017-9f3a-addf3a4ee2a9)
-
-Hi this is my horse  i think Mabey
-
-![images](https://github.com/user-attachments/assets/2350b5a1-4a10-4e31-a556-ade06c0b58ae)
-
-This is Us rn leik hacker coder?
-
-![image](https://github.com/user-attachments/assets/796f7811-f527-4bbb-8957-4976f1049544)
+#     Cheese-And-Quackers-GS
 
 
 
+Certainly! Here's a long and polite letter explaining why *skidding* (typically referring to unauthorized or unethical use of other people's code, tools, or exploits—especially in hacking or modding communities) is problematic:
+
+---
+
+**Dear \[Community/Individual's Name],**
+
+I hope this message finds you well. I wanted to take a moment to share some thoughts and reflections regarding a topic that has become increasingly relevant in many technical and development communities—namely, the practice commonly referred to as *skidding*.
+
+Skidding, as you may already know, generally describes the act of using tools, scripts, or code created by others—often without understanding how they work, and frequently without permission or proper attribution. In some cases, it also involves presenting this borrowed work as one’s own. While I understand that the term is sometimes used jokingly or even lightly, the implications it carries are worth addressing with care and seriousness.
+
+First and foremost, skidding undermines the core principles that underpin all healthy developer and ethical hacking communities: **learning, respect, and integrity**. These communities thrive because individuals dedicate countless hours to learning, experimenting, building, and sharing their work with others—often without any expectation of compensation, simply for the love of the craft. To take their work without understanding it or giving credit is not just disrespectful—it erodes the trust and mutual support that allow these communities to flourish.
+
+Moreover, using tools or exploits without understanding their inner workings can be dangerous. Scripts and binaries taken from unknown or untrusted sources may contain backdoors, viruses, or poorly implemented functions that could harm systems or even compromise sensitive information. When someone runs a tool without knowing exactly what it does, they are not only putting themselves at risk but potentially others too—especially if the tool is used in a shared environment or network.
+
+In a broader sense, skidding also deprives the individual of **personal growth**. One of the most fulfilling aspects of programming, reverse engineering, and ethical hacking is the joy of discovery—the “aha” moments that come from solving a difficult problem or building something from the ground up. When you rely solely on the work of others, you rob yourself of these experiences and ultimately slow down your own development.
+
+I don’t bring this up to point fingers or shame anyone. In fact, curiosity often leads many newcomers down this path—not out of malice, but out of a desire to explore and be part of something exciting. And that’s entirely understandable. But at some point, every learner must make a choice: to remain in the comfort of copying, or to step into the far more rewarding world of genuine understanding and contribution.
+
+So, what’s the alternative? Instead of skidding, I encourage anyone—especially beginners—to take time to study the tools they admire. Read source code. Ask questions. Break things in safe environments. Experiment, document, build. Collaborate with others. And most importantly, give credit where it’s due. Every great developer today started somewhere, often small and confused, but what separated them was their decision to learn and create, not just reuse.
+
+To conclude, I hope this letter is received in the spirit in which it’s written: not as a rebuke, but as an invitation—to rise above shortcuts and strive for excellence, curiosity, and ethical practice. Our communities become stronger when we support each other in learning, share knowledge openly, and uphold the values that make this field so inspiring.
+
+With respect and best wishes on your journey,
+
+**\[Your Name]**
+\[Optional Title or Handle]
+\[Date]
+
+---
+
+Let me know if you’d like it customized for a particular audience (e.g., a Discord server, a friend, a public GitHub post, etc.).
