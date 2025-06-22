@@ -1,6 +1,15 @@
 
 # Cheese And Quackers GS
+EVERYTHING MADE BY CATH
 ## feel free to improve
+
+# HOW TO MAKE GS
+
+- DOWNLOAD IDA PRO https://drive.google.com/file/d/1umAtYOgo43YvsP4YgUhldf560Fo9syxx/view?usp=sharing
+- download Scylla and Processxp (for exe dump) https://cdn.discordapp.com/attachments/1276933851825963119/1292980110105903104/PE.zip?ex=68592f50&is=6857ddd0&hm=c590491d9ce4fcbf4c8d779316a244890049bf90f6b54ec74611b717145c00ef&
+- download dumper 7 https://cdn.discordapp.com/attachments/1180840077711114372/1386432635601031198/Dumper-7.dll?ex=6859af83&is=68585e03&hm=71b3e7f6cba6c47bc691c5299f59b3313ef61686131ee3130ee131e725153b0b&
+- figure it out from there...
+
 ### 1:1 ais + creative (on most seasons)
 NOW ITS 1:1
 Black lives matter but only on wednesdays
@@ -11,7 +20,7 @@ Im eating a hamburger right now Ok
 - npm run tauri dev
 - cargo tauri build to build the gs
 
-# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg and then delete all that and add Hxnted)
+# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
 A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
 **Made by cath** 🐱‍💻
 ### Features
@@ -54,10 +63,4 @@ This is Us rn leik hacker coder?
 ![image](https://github.com/user-attachments/assets/796f7811-f527-4bbb-8957-4976f1049544)
 
 
-# HOW TO MAKE GS
-
-- DOWNLOAD IDA PRO https://drive.google.com/file/d/1umAtYOgo43YvsP4YgUhldf560Fo9syxx/view?usp=sharing
-- download Scylla and Processxp (for exe dump) https://cdn.discordapp.com/attachments/1276933851825963119/1292980110105903104/PE.zip?ex=68592f50&is=6857ddd0&hm=c590491d9ce4fcbf4c8d779316a244890049bf90f6b54ec74611b717145c00ef&
-- download dumper 7 https://cdn.discordapp.com/attachments/1180840077711114372/1386432635601031198/Dumper-7.dll?ex=6859af83&is=68585e03&hm=71b3e7f6cba6c47bc691c5299f59b3313ef61686131ee3130ee131e725153b0b&
-- figure it out from there...
 
