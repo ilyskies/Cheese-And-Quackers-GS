@@ -1,65 +1,81 @@
+<div align=center>
+  <img src="https://i.ibb.co/Bcj3VXm/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3932373733393930313534.png" alt="LawinServer Logo">
 
-# Cheese And Quackers GS
-EVERYTHING MADE BY CATH (DISCORD C47H ADD)
-## feel free to improve
+  ### LawinServer is a private server that supports all Fortnite versions!
+  
+</div>
+<br>
 
-# HOW TO MAKE GS
+## Credits
+| Name | Contributions |
+| --------------- | ----------- |
+| [Lawin](https://github.com/Lawin0129) | Creator |
+| [PRO100KatYT](https://github.com/PRO100KatYT) | Contributor & Maintainer |
 
-- DOWNLOAD IDA PRO https://drive.google.com/file/d/1umAtYOgo43YvsP4YgUhldf560Fo9syxx/view?usp=sharing
-- download Scylla and Processxp (for exe dump) https://cdn.discordapp.com/attachments/1276933851825963119/1292980110105903104/PE.zip?ex=68592f50&is=6857ddd0&hm=c590491d9ce4fcbf4c8d779316a244890049bf90f6b54ec74611b717145c00ef&
-- download dumper 7 https://cdn.discordapp.com/attachments/1180840077711114372/1386432635601031198/Dumper-7.dll?ex=6859af83&is=68585e03&hm=71b3e7f6cba6c47bc691c5299f59b3313ef61686131ee3130ee131e725153b0b&
-- figure it out from there...
+## Features:
 
-### 1:1 ais + creative (on most seasons)
-NOW ITS 1:1
-Im eating a hamburger right now Ok
+### Save the World:
+- CloudStorage and ClientSettings (Settings saving)
+- Llama purchasing and opening with random loot and choice packs
+- Every Hero, Weapon, Defender and Resource
+- All Founder's Packs rewards screen (togglable in the config)
+- Refreshing, sending, collecting and aborting expeditions
+- Crafting items in Backpack
+- Transferring items to and from Storage
+- Modifying and upgrading Schematic perks
+- Supercharging items
+- Leveling up and Evolving items
+- Upgrading item rarity
+- Hero, Defender, Survivor, Team Perk and Gadget equipping
+- Research level resetting and upgrading
+- Upgrade level resetting and upgrading
+- Autofill survivors
+- Recycling and destroying items
+- Collection Book slotting and unslotting
+- Claiming Daily Rewards
+- Claiming Quest and Collection Book Rewards
+- Modifying quickbars in Backpack
+- Activating XP Boosts
+- Correct Events in Frontend up to Season 11 (Can change)
+- Buying Skill Tree perks
+- Quests pinning
+- Switching between Hero Loadouts
+- Favoriting items
+- Marking items as seen
+- Changing items in Locker
+- Changing banner icon and banner color
+- Changing items edit styles
+- Support a Creator with specific codes
+- Fully working daily challenges system (New daily challenge every day, replacing daily challenges, etc...)
+- Item transformation
+- Event Quests from Season 2 up to Season X & Season 24 (Can change)
 
-# HOW TO RUN
-- npm install
-- npm run tauri dev
-- cargo tauri build to build the gs
+### Battle Royale:
+- CloudStorage and ClientSettings (Settings saving)
+- Winterfest presents opening (11.31, 19.01, 23.10 & 33.11)
+- Purchasing Item Shop items
+- Refunding cosmetics in the refund tab
+- Favoriting items
+- Marking items as seen
+- Changing items in Locker
+- Changing banner icon and banner color
+- Changing items edit styles
+- Jam Track playback in lobby (28.00-30.00) (Currently all tracks will play the OG Future Remix audio)
+- Radio Station in cars support*
+- Support a Creator with specific codes
+- Fully working daily challenges system (New daily challenge every day, replacing daily challenges, etc...)
+- Completed Location & Discovery quests (discovered map in game & in lobby) for Chapter 2 - 5 (Can change)
+- Seasonal Quests from Season 3 up to Season 34 (Can change)
+- Purchasable battle pass from Season 2 to Season 10 (Can change)
+- Events Tab (Tournaments)
+- Discovery Tab
+- Leaderboards (v1)
+- Configurable backend sided in-game events - check out the Events seciton in config.ini for more details
+- Joining gameservers using the matchmaker - check out the GameServer seciton in config.ini for more details
+##### * Included in the [LawinServer Addon](https://github.com/PRO100KatYT/LawinServerAddon). To install it, merge its `public` folder with the one in your LawinServer folder. [(Direct download link)](https://github.com/PRO100KatYT/LawinServerAddon/archive/refs/heads/main.zip)
 
-# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
-A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
-**Made by cath** 🐱‍💻
-### Features
-- 1:1 💯
-- Made by Swayzz (Not a skid)
-- Has a tutorial by HXNTED (SEASON 8 FN IN 2023)
-- Magma
-- STW SUPPORRT ASF FRFR ONG 
-- Works from S1-S69
-### Racist gameserver
-- true
-- Skidded by magma
-- skidded by swayzz
-- Hxnted doesnt Skid
-### Original creator
-- Copyright 1998-2001 Epic Games, Inc. All Rights Reserved.
-- EasyAntiCheat skidded Jyzio
-### Credits:
-- Hxnted (Did everything)
-- Hxnted (Did more)
-- Hxnted (I like turtels)
-- Swayz (He cool i think)
-- CathMW (He did AC detector Ok russia)
-### Meet the team!
-- EVERYONE ELSE IS A SKID BIG UP CATH AND SWAYZZ FOR PUTTING IN ALL THE EFFORT
-- This is our lead developer VladTheGoat0x1337 (cath)
-
-https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
-
-- This is the CEO his name is Anonymous i think
-
-![image](https://github.com/user-attachments/assets/9e1c67e1-cd17-4017-9f3a-addf3a4ee2a9)
-
-Hi this is my horse  i think Mabey
-
-![images](https://github.com/user-attachments/assets/2350b5a1-4a10-4e31-a556-ade06c0b58ae)
-
-This is Us rn leik hacker coder?
-
-![image](https://github.com/user-attachments/assets/796f7811-f527-4bbb-8957-4976f1049544)
-
-
-
+## How to host/use LawinServer
+1) Install [NodeJS](https://nodejs.org/en/)
+2) Run "install_packages.bat" (This file isn't required after the packages are installed.)
+3) Run "start.bat", It should say "Started listening on port 3551"
+4) Use something to redirect the fortnite servers to localhost:3551 (Which could be fiddler, ssl bypass that redirects servers, etc...)
