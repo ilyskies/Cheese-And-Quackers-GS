@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cheese & Quackers GS</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9fafb;
+      color: #111;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #ffe066, #ffd43b);
+      padding: 2rem;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    header h1 {
+      font-size: 3rem;
+      color: #222;
+    }
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+      color: #444;
+    }
+    nav {
+      background: #fff3bf;
+      padding: 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      border-bottom: 1px solid #ffe066;
+    }
+    nav a {
+      color: #333;
+      text-decoration: none;
+      font-weight: 600;
+      transition: color 0.3s;
+    }
+    nav a:hover {
+      color: #ffa500;
+    }
+    main {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #222;
+      border-left: 5px solid #ffe066;
+      padding-left: 0.5rem;
+    }
+    ul {
+      list-style: disc;
+      padding-left: 1.5rem;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .news {
+      background-color: #fffbe6;
+      padding: 1rem;
+      border-left: 4px solid #ffc107;
+      margin-bottom: 1rem;
+      border-radius: 6px;
+    }
+    .team {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: space-between;
+    }
+    .team-member {
+      flex: 1 1 30%;
+      background-color: #fff3cd;
+      padding: 1rem;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .team-member img {
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      margin-bottom: 0.5rem;
+    }
+    .faq p {
+      margin-bottom: 1rem;
+    }
+    .contact a {
+      color: #0056b3;
+    }
+    footer {
+      background: #ffe066;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #444;
+      box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.05);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cheese & Quackers GS</h1>
+    <p>Where Ducks Meet Fortnite – Join the Ultimate Modded Adventure!</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#gameserver">GameServer</a>
+    <a href="#merch">Merch</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#news">News</a>
+    <a href="#team">Team</a>
+    <a href="#faq">FAQ</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We’re a passionate duck-themed Fortnite modding group based online and run by fans for fans. Dive into our quirky custom servers, exclusive duck gear, and join the waddling revolution!</p>
+    </section>
+    <section id="gameserver">
+      <h2>GameServer Info</h2>
+      <ul>
+        <li><strong>IP:</strong> quack.cheese-gs.net</li>
+        <li><strong>Supported Builds:</strong> OT6.5, 5.00, 10.40</li>
+        <li><strong>Features:</strong> Duck-only zones, AI Ducks, Custom Drops</li>
+        <li><strong>Events:</strong> Weekly Duck Royale & Mod Showcases</li>
+      </ul>
+    </section>
+    <section id="merch">
+      <h2>Merch Store</h2>
+      <ul>
+        <li>Golden Beak Hoodie</li>
+        <li>Rubber Duck USB</li>
+        <li>Quack Caps & Duck Socks</li>
+        <li>Mystery Box Bundles</li>
+      </ul>
+    </section>
+    <section id="gallery">
+      <h2>Gallery</h2>
+      <div class="gallery">
+        <img src="https://placekitten.com/300/200" alt="duck1">
+        <img src="https://placekitten.com/301/200" alt="duck2">
+        <img src="https://placekitten.com/302/200" alt="duck3">
+        <img src="https://placekitten.com/303/200" alt="duck4">
+      </div>
+    </section>
+    <section id="news">
+      <h2>Latest News</h2>
+      <div class="news">
+        <strong>June 2025:</strong> Duck Royale 2.0 released with a new map!
+      </div>
+      <div class="news">
+        <strong>New Merch:</strong> The Quack Attack Collection now available.
+      </div>
+    </section>
+    <section id="team">
+      <h2>Meet the Team</h2>
+      <div class="team">
+        <div class="team-member">
+          <img src="https://placekitten.com/100/100" alt="DuckBoss" />
+          <h3>DuckBoss</h3>
+          <p>Founder & Developer</p>
+        </div>
+        <div class="team-member">
+          <img src="https://placekitten.com/101/100" alt="Featherz" />
+          <h3>Featherz</h3>
+          <p>Lead Designer</p>
+        </div>
+        <div class="team-member">
+          <img src="https://placekitten.com/102/100" alt="Waddle" />
+          <h3>Waddle</h3>
+          <p>Content Creator</p>
+        </div>
+      </div>
+    </section>
+    <section id="faq">
+      <h2>FAQ</h2>
+      <div class="faq">
+        <p><strong>Q:</strong> How do I join?<br />
+        <strong>A:</strong> Use our launcher and connect to quack.cheese-gs.net</p>
+        <p><strong>Q:</strong> Can I submit a mod?<br />
+        <strong>A:</strong> Yes! Submit via our Discord in #mod-submissions</p>
+        <p><strong>Q:</strong> Do you ship worldwide?<br />
+        <strong>A:</strong> Yes, most regions supported.</p>
+      </div>
+    </section>
+    <section id="contact" class="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:quack@cheese-gs.net">quack@cheese-gs.net</a></p>
+      <p>Join us on Discord: <a href="https://discord.gg/example" target="_blank">discord.gg/example</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Cheese & Quackers GS 🦆 – All Rights Reserved</p>
+  </footer>
+</body>
+</html>
