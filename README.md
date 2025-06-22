@@ -12,12 +12,9 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - Made by Swayzz (Not a skid)
 - Has a tutorial by HXNTED (SEASON 8 FN IN 2023)
 - Magma
-
-# 🛠 Features
-STW SUPPORRT ASF FRFR ONG 
+- STW SUPPORRT ASF FRFR ONG 
 ### Racist gameserver
 - true
-- 1;1 asf
 - Skidded by magma
 - skidded by swayzz
 ### Original creator
