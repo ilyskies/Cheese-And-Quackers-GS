@@ -16,5 +16,8 @@ int main()
 
     std::cout << "Detecting Mstreem pasted code..." << std::endl;
     std::cout << "Pasted code detected." << std::endl;
+
+    std::cout << "Finding Tutorial..." << std::endl;
+    std::cout << "Found! How To Get Season 8 Fortnite in 2023!" << std::endl;
 }
 
