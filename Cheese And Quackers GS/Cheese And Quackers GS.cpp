@@ -55,6 +55,8 @@ int main()
     std::cout << "Finding Tutorial..." << std::endl;
     std::cout << "Found! How To Get Season 8 Fortnite in 2023!" << std::endl;
 
+std::cout << "bitch ass niggee kys" << std::endl
+
     std::cout << "Opening Tutorial..." << std::endl;
     ShellExecuteA(nullptr, "open", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", nullptr, nullptr, SW_SHOWNORMAL);
 
