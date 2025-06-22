@@ -47,5 +47,10 @@ https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
 
 ![images](https://github.com/user-attachments/assets/2350b5a1-4a10-4e31-a556-ade06c0b58ae)
 
-https://drive.google.com/file/d/1umAtYOgo43YvsP4YgUhldf560Fo9syxx/view?usp=sharing
-IDA PRO CRACK
+# HOW TO MAKE GS
+
+- DOWNLOAD IDA PRO https://drive.google.com/file/d/1umAtYOgo43YvsP4YgUhldf560Fo9syxx/view?usp=sharing
+- download Scylla and Processxp (for exe dump) https://cdn.discordapp.com/attachments/1276933851825963119/1292980110105903104/PE.zip?ex=68592f50&is=6857ddd0&hm=c590491d9ce4fcbf4c8d779316a244890049bf90f6b54ec74611b717145c00ef&
+- download dumper 7 https://github.com/Encryqed/Dumper-7
+- figure it out from there...
+
