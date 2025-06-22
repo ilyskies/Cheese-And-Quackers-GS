@@ -4,6 +4,10 @@
 NOW ITS 1:1
 Black lives matter
 
+# HOW TO RUN
+npm install
+npm run tauri dev
+
 # 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
 A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
 **Made by cath** 🐱‍💻
