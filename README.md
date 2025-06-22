@@ -1,5 +1,6 @@
 
 # Cheese And Quackers GS
+EVERYTHING MADE BY CATH
 ## feel free to improve
 
 # HOW TO MAKE GS
@@ -19,7 +20,7 @@ Im eating a hamburger right now Ok
 - npm run tauri dev
 - cargo tauri build to build the gs
 
-# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg and then delete all that and add Hxnted)
+# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
 A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
 **Made by cath** 🐱‍💻
 ### Features
