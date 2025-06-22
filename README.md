@@ -5,8 +5,8 @@ NOW ITS 1:1
 Black lives matter
 
 # HOW TO RUN
--npm install
--npm run tauri dev
+- npm install
+- npm run tauri dev
 - cargo tauri build to build the gs
 
 # 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
