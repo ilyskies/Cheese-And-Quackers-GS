@@ -18,10 +18,11 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - Has a tutorial by HXNTED (SEASON 8 FN IN 2023)
 - Magma
 - STW SUPPORRT ASF FRFR ONG 
+- Works from S1-S69
 ### Racist gameserver
 - true
 - Skidded by magma
 - skidded by swayzz
 ### Original creator
-- Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+- Copyright 1998-2001 Epic Games, Inc. All Rights Reserved.
 - EasyAntiCheat skidded Jyzio

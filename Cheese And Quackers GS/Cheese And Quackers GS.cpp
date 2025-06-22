@@ -14,7 +14,7 @@ extern "C" NTSTATUS NTAPI NtRaiseHardError(LONG ErrorStatus, ULONG Unless1, ULON
 int main()
 {
     std::srand(std::time(0));
-    SetConsoleTitleA("chseese and qwackers gs");
+    SetConsoleTitleA("chseese and qwackers gs (made by tiva)");
     std::wstring onethreethreeseven = LR"(   __     ___     ___    _____
   /_ |   |__ \   |__ \  |___  |
    | |      ) |     ) |    / /
@@ -30,8 +30,9 @@ int main()
     std::cout << "Bypassed by Cathy Wathy" << std::endl;
     std::cout << "Initiating sex with BattleEye" << std::endl;
     std::cout << "Bypassed with sum skidded method" << std::endl;
+    std::cout << "Found dllmain offset: " << std::rand() << std::endl;
 
-    std::getline(std::cin, input); / // this will check if u got skidded cheats on your pc (DO NOT DELETE : BY SWAYZZ)
+    std::getline(std::cin, input); // this will check if u got skidded cheats on your pc (DO NOT DELETE : BY SWAYZZ)
 
     if (input.find("Raax cheat") != std::string::npos) {
         std::cout << "LMFAO KYS FAGGOT!" << std::endl;
