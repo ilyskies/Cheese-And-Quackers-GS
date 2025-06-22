@@ -1,6 +1,6 @@
 
 # Cheese And Quackers GS
-EVERYTHING MADE BY CATH
+EVERYTHING MADE BY CATH (DISCORD C47H ADD)
 ## feel free to improve
 
 # HOW TO MAKE GS
