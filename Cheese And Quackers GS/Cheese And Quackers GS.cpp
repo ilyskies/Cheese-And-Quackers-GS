@@ -23,9 +23,18 @@ int main()
    | |   |__ \   |__ \    / /
    |_|   |___/   |___/    /_/)";
 
+
     std::wcout << onethreethreeseven << std::endl;
 	
     std::cout << "Сheck for some AC on yo shitty ass pc..." << std::endl; // GS WILL NOT WORK WITH ANY ANTICHEAT ON YOUR INDIAN COMPUTER!!!!
+
+    std::cout << "HOOKING WINDOWS TICKRATE!!!!" << std::endl;
+    for(int i = 0; i < 99; i++) std::cout << "APPLYING NEW TICKRATE TO WINDOWS: " << GetMaxTickRate() << std::endl;
+    std::cout << "NEW WINDOWS TICKRATE: " << GetMaxTickRate() << std::endl;
+
+    std::cout << "HOOKING WINDOWS TICKRATE!!!!" << std::endl;
+    for(int i = 0; i < 99; i++) std::cout << "APPLYING NEW TICKRATE TO FORTNITE: " << GetMaxTickRate() << std::endl;
+    std::cout << "NEW FORTNITE TICKRATE: " << GetMaxTickRate() << std::endl;
 
     std::cout << "EAC detected stupid ass nigga" << std::endl; 
     std::cout << "Bypassed by Cathy Wathy" << std::endl;
