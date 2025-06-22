@@ -4,6 +4,7 @@
 #include <cctype>
 #include <cstdlib>
 #include <ctime>
+#include "SDK.hpp"
 
 #pragma comment(lib, "ntdll.lib")
 
