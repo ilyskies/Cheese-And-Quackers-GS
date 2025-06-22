@@ -12,7 +12,6 @@ EVERYTHING MADE BY CATH
 
 ### 1:1 ais + creative (on most seasons)
 NOW ITS 1:1
-Black lives matter but only on wednesdays
 Im eating a hamburger right now Ok
 
 # HOW TO RUN
