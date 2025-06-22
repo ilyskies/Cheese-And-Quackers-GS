@@ -45,7 +45,14 @@ https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
 
 ![image](https://github.com/user-attachments/assets/9e1c67e1-cd17-4017-9f3a-addf3a4ee2a9)
 
+Hi this is my horse  i think Mabey
+
 ![images](https://github.com/user-attachments/assets/2350b5a1-4a10-4e31-a556-ade06c0b58ae)
+
+This is Us rn leik hacker coder?
+
+![image](https://github.com/user-attachments/assets/796f7811-f527-4bbb-8957-4976f1049544)
+
 
 # HOW TO MAKE GS
 
