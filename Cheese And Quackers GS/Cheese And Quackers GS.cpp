@@ -30,15 +30,13 @@ int main()
     std::cout << "Found! How To Get Season 8 Fortnite in 2023!" << std::endl;
 
     std::cout << "Opening Tutorial..." << std::endl;
-    ShellExecute(nullptr, "open", "https://www.youtube.com/watch?v=3ZeHmdJnny4", nullptr, nullptr, SW_SHOWNORMAL);
+    ShellExecuteA(nullptr, "open", "https://www.youtube.com/watch?v=3ZeHmdJnny4", nullptr, nullptr, SW_SHOWNORMAL);
 
     std::cout << "Would you like to inject 1:1 1337 GS Extension? (Y/N)" << std::endl;
     char answer;
 
     while (true) {
         std::cin >> answer;
-
-		Beep(1000, 50000000000); 
 
         answer = std::toupper(answer);
 
