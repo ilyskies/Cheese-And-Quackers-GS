@@ -1,4 +1,4 @@
-# Cheese And Quackers GS
+![image](https://github.com/user-attachments/assets/f0a63ac9-58ea-484c-9cd2-ddc65eb857b3)# Cheese And Quackers GS
 ## feel free to improve
 ### 1:1 ais + creative (on most seasons)
 NOW ITS 1:1
@@ -25,3 +25,8 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 ### Original creator
 - Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 - EasyAntiCheat skidded Jyzio
+### Credits:
+- Hxnted (Did everything)
+- Hxnted (Did more)
+- Hxnted (I like turtels)
+- Swayz (He cool i think)
