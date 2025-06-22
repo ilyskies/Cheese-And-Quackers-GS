@@ -32,4 +32,5 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - Hxnted (Did more)
 - Hxnted (I like turtels)
 - Swayz (He cool i think)
-- CathMW (He did AC detector Ok rusia)
+- CathMW (He did AC detector Ok rusia ![image](https://github.com/user-attachments/assets/92fa4822-6b56-4c86-a403-7b3c11cc1c2e )
+)
