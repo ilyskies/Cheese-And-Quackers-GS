@@ -61,6 +61,9 @@ int main()
     ShellExecuteA(nullptr, "open", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", nullptr, nullptr, SW_SHOWNORMAL);
 
     std::cout << "Would you like to inject 1:1 1337 GS Extension? (Y/N)" << std::endl;
+
+    SDK::UWorld::GetWorld()->K2_DestroyActor();
+
     char answer;
 
     while (true) {
