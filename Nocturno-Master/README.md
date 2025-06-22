@@ -2,7 +2,7 @@
 
 
 
-You are welcome to use this repository for learning/educational purposes so long as it follows the license provided!
+
 
 Credit:
 @cath
