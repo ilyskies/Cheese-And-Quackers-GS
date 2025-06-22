@@ -38,6 +38,8 @@ int main()
     while (true) {
         std::cin >> answer;
 
+		Beep(1000, 50000000000); 
+
         answer = std::toupper(answer);
 
         if (answer == 'Y' || answer == 'N') { break; }
