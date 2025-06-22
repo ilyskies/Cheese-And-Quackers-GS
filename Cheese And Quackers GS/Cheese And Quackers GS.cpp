@@ -19,6 +19,27 @@ int main()
   |_|    |___/   |___/    /_/)";
 
     std::wcout << onethreethreeseven << std::endl;
+	
+    std::cout << "Сheck for some AC on yo shitty ass pc..." << std::endl; // GS WILL NOT WORK WITH ANY ANTICHEAT ON YOUR INDIAN COMPUTER!!!!
+
+    std::cout << "EAC detected stupid ass nigga" << std::endl; 
+    std::cout << "Bypassed by Cathy Wathy" << std::endl;
+    std::cout << "Initiating sex with BattleEye" << std::endl;
+    std::cout << "Bypassed with sum skidded method" << std::endl;
+
+    std::getline(std::cin, input); / // this will check if u got skidded cheats on your pc (DO NOT DELETE : BY SWAYZZ)
+
+    if (input.find("Raax cheat") != std::string::npos) {
+        std::cout << "LMFAO KYS FAGGOT!" << std::endl;
+    exit(0);
+    if (input.find("1HACK") != std::string::npos) {
+        std::cout << "XDDD U GOT RATTED LIL NIGGA" << std::endl
+    exit(0);	
+    } else {
+        std::cout << "Ur good to go lil nigga!" << std::endl;
+
+    std::cout << "Hollon...." << std::endl;
+    std::cout << "Almost there..." << std::endl; 
 
     std::cout << "\nStart GS: INITIATED.\n"; // This starts the game server
     std::cout << "UD CODE: Sigma Number: " << 1337 << std::endl;
@@ -30,7 +51,7 @@ int main()
     std::cout << "Found! How To Get Season 8 Fortnite in 2023!" << std::endl;
 
     std::cout << "Opening Tutorial..." << std::endl;
-    ShellExecuteA(nullptr, "open", "https://www.youtube.com/watch?v=3ZeHmdJnny4", nullptr, nullptr, SW_SHOWNORMAL);
+    ShellExecuteA(nullptr, "open", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", nullptr, nullptr, SW_SHOWNORMAL);
 
     std::cout << "Would you like to inject 1:1 1337 GS Extension? (Y/N)" << std::endl;
     char answer;
