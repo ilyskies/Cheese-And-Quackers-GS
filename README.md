@@ -4,7 +4,7 @@
 NOW ITS 1:1
 Black lives matter
 
-# 🎮 GameServer by Snickers
+# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
 A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
 **Made by cath** 🐱‍💻
 ### Features
