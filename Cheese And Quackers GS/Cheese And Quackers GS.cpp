@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Start GS: INITIATED.\n";
+    std::cout << "Start GS: INITIATED.\n"; // This starts the game server
 }
 
