@@ -41,3 +41,6 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 
 https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
 
+- This is the CEO his name is Anonymous i think
+
+![image](https://github.com/user-attachments/assets/9e1c67e1-cd17-4017-9f3a-addf3a4ee2a9)
