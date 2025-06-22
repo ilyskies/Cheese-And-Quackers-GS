@@ -3,3 +3,12 @@
 ### 1:1 ais + creative (on most seasons)
 NOW ITS 1:1
 Black lives matter
+
+# 🎮 GameServer by Snickers
+A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
+**Made by cath** 🐱‍💻
+### Features
+- 1:1 💯
+- Made by Swayzz (Not a skid)
+- Has a tutorial by HXNTED (SEASON 8 FN IN 2023)
+- Magma
