@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Start GS\n";
+    std::cout << "Start GS: INITIATED.\n";
 }
 
