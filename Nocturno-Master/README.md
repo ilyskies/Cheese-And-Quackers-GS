@@ -10,8 +10,7 @@ This is the source for NocturnoV1 which was released back in 2021. I am official
 You are welcome to use this repository for learning/educational purposes so long as it follows the license provided!
 
 Credit:
-@Windermed_
-@Jacobb626
+@cath
 
 Additional credit for source code is included in the code (if applicable!)
 
@@ -32,4 +31,4 @@ are welcome to do so!! Just create a pull request with your changes and i'll see
 merging those changes with our V1 branch. (you will be credited of course!)
 
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
