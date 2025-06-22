@@ -10,7 +10,7 @@ Black lives matter but only on wednesdays
 - npm run tauri dev
 - cargo tauri build to build the gs
 
-# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg)
+# 🎮 GameServer by Snickers (remove the first s and swap the ck with gg and then delete all that and add Hxnted)
 A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.  
 **Made by cath** 🐱‍💻
 ### Features
