@@ -4,6 +4,7 @@
 ### 1:1 ais + creative (on most seasons)
 NOW ITS 1:1
 Black lives matter but only on wednesdays
+Im eating a hamburger right now Ok
 
 # HOW TO RUN
 - npm install
@@ -24,6 +25,7 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - true
 - Skidded by magma
 - skidded by swayzz
+- Hxnted doesnt Skid
 ### Original creator
 - Copyright 1998-2001 Epic Games, Inc. All Rights Reserved.
 - EasyAntiCheat skidded Jyzio
