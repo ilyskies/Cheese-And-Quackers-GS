@@ -1,6 +1,7 @@
 
 # Cheese And Quackers GS
 EVERYTHING MADE BY CATH
+And hxntrewd
 ## feel free to improve
 
 # HOW TO MAKE GS
