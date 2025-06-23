@@ -44,7 +44,7 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - Swayz (He cool i think)
 - CathMW (He did AC detector Ok russia)
 ### Meet the team!
-- EVERYONE ELSE IS A SKID BIG UP CATH AND SWAYZZ (And hxnted lets not forget the goat) FOR PUTTING IN ALL THE EFFORT
+- EVERYONE ELSE IS A SKID BIG UP CATH AND SWAYZZ FOR PUTTING IN ALL THE EFFORT
 - This is our lead developer VladTheGoat0x1337 (cath)
 
 https://github.com/user-attachments/assets/fdf0b956-8051-4cc4-8ab0-3ca42ad6ec88
