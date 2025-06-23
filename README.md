@@ -33,7 +33,7 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - true
 - Skidded by magma
 - skidded by swayzz
-- Hxnted doesnt Skid
+- Hxnted loves Skidding
 ### Original creator
 - Copyright 1998-2001 Epic Games, Inc. All Rights Reserved.
 - EasyAntiCheat skidded Jyzio
