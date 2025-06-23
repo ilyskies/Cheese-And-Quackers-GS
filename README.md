@@ -38,8 +38,8 @@ A simple, fast, and lightweight 1:1 CREATIVE (NOT SKIDDED) game server.
 - Copyright 1998-2001 Epic Games, Inc. All Rights Reserved.
 - EasyAntiCheat skidded Jyzio
 ### Credits:
-- Hxnted (Did everything)
-- Hxnted (Did more)
+- Cath (Did everything)
+- Swayzz (Did more)
 - Hxnted (I like turtels)
 - Swayz (He cool i think)
 - CathMW (He did AC detector Ok russia)
